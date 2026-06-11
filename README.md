@@ -97,7 +97,7 @@ Open `docs/ResumeAI.html` in browser → add Groq API key → upload resume → 
 ## 📦 Dataset
 
 Data files are stored on Google Drive (too large for GitHub):
-👉 [Download Dataset]((https://drive.google.com/drive/folders/1JGO8wLvreC-R33vcZxXMGV1vS62LvyfV?usp=drive_link))
+👉 [Download Dataset](https://drive.google.com/drive/folders/1JG08wLvreC-R33vcZxXMGV1vS62LvyfV)
 
 ## 👥 Team — Group 9
 - Vaishnav Busha — Backend, data pipeline
