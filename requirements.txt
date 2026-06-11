@@ -1,0 +1,41 @@
+# ML / fine-tuning
+torch>=2.1.0
+transformers==4.44.0
+datasets==2.20.0
+trl==0.9.6
+peft==0.11.1
+bitsandbytes==0.43.3
+accelerate==0.33.0
+sentencepiece
+protobuf
+rouge-score
+nltk
+
+# Data
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow
+tqdm
+
+# Document parsing
+PyPDF2
+python-docx
+
+# Web scraping
+selenium
+webdriver-manager
+beautifulsoup4
+lxml
+requests
+
+# Gemini API
+google-genai
+
+# API backend
+fastapi>=0.110.0
+uvicorn[standard]
+python-multipart
+pydantic>=2.0.0
+
+# Utilities
+python-dotenv
